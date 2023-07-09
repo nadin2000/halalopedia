@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/halalopedia/static/css/main.a045e15d.css",
-    "main.js": "/halalopedia/static/js/main.d688be9a.js",
+    "main.js": "/halalopedia/static/js/main.dbcaa6d6.js",
     "static/js/787.a2ab7a96.chunk.js": "/halalopedia/static/js/787.a2ab7a96.chunk.js",
     "static/media/ContactUs.png": "/halalopedia/static/media/ContactUs.08825f0d81707e3a0734.png",
     "static/media/AboutUs.png": "/halalopedia/static/media/AboutUs.af3a6801a0fbe6c010b8.png",
@@ -31,11 +31,11 @@
     "static/media/Sephora.webp": "/halalopedia/static/media/Sephora.10ab4891b33ced3c5ca9.webp",
     "index.html": "/halalopedia/index.html",
     "main.a045e15d.css.map": "/halalopedia/static/css/main.a045e15d.css.map",
-    "main.d688be9a.js.map": "/halalopedia/static/js/main.d688be9a.js.map",
+    "main.dbcaa6d6.js.map": "/halalopedia/static/js/main.dbcaa6d6.js.map",
     "787.a2ab7a96.chunk.js.map": "/halalopedia/static/js/787.a2ab7a96.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a045e15d.css",
-    "static/js/main.d688be9a.js"
+    "static/js/main.dbcaa6d6.js"
   ]
 }
