@@ -35,6 +35,15 @@ function App() {
        <Route path="/halalopedia/newstore" element={<Newstore/>} ></Route>
        <Route path="/halalopedia/restaurants" element={<Restaurants/>} ></Route>
        <Route path="/halalopedia/groceries" element={<Groceries/>} ></Route>
+       <Route path="/home" element={<Home/>} ></Route>
+       <Route path="/profile" element={<Profile/>} ></Route>
+       <Route path="/aboutus" element={<Aboutus/>} ></Route>
+       <Route path="/rewardstore" element={<Rewardstore/>} ></Route>
+       <Route path="/discussionforum" element={<Discussionforum/>} ></Route>
+       <Route path="/contactus" element={<Contactus/>} ></Route>
+       <Route path="/newstore" element={<Newstore/>} ></Route>
+       <Route path="/restaurants" element={<Restaurants/>} ></Route>
+       <Route path="/groceries" element={<Groceries/>} ></Route>
        </Routes>
        <Footer/>
     </div>
