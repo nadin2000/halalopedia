@@ -25,16 +25,16 @@ function App() {
     <div >
        <Navbar/>
        <Routes>
-       <Route path="/" element={<Home/>} ></Route>
-       <Route path="/home" element={<Home/>} ></Route>
-       <Route path="/profile" element={<Profile/>} ></Route>
-       <Route path="/aboutus" element={<Aboutus/>} ></Route>
-       <Route path="/rewardstore" element={<Rewardstore/>} ></Route>
-       <Route path="/discussionforum" element={<Discussionforum/>} ></Route>
-       <Route path="/contactus" element={<Contactus/>} ></Route>
-       <Route path="/newstore" element={<Newstore/>} ></Route>
-       <Route path="/restaurants" element={<Restaurants/>} ></Route>
-       <Route path="/groceries" element={<Groceries/>} ></Route>
+       <Route path="/halalopedia/" element={<Home/>} ></Route>
+       <Route path="/halalopedia/home" element={<Home/>} ></Route>
+       <Route path="/halalopedia/profile" element={<Profile/>} ></Route>
+       <Route path="/halalopedia/aboutus" element={<Aboutus/>} ></Route>
+       <Route path="/halalopedia/rewardstore" element={<Rewardstore/>} ></Route>
+       <Route path="/halalopedia/discussionforum" element={<Discussionforum/>} ></Route>
+       <Route path="/halalopedia/contactus" element={<Contactus/>} ></Route>
+       <Route path="/halalopedia/newstore" element={<Newstore/>} ></Route>
+       <Route path="/halalopedia/restaurants" element={<Restaurants/>} ></Route>
+       <Route path="/halalopedia/groceries" element={<Groceries/>} ></Route>
        </Routes>
        <Footer/>
     </div>
