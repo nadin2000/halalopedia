@@ -57,6 +57,9 @@ body {
   border-width: 0px;
 }
 
+.btn-custom-border{
+  border: 0.2px solid #7d8daa;
+}
 /*==================== 
   Footer 
 ====================== */
@@ -75,6 +78,13 @@ footer ul {
 footer ul li a {
   color: #000000;
   text-decoration: none;
+}
+
+.active-view{
+  color: #D40A3A;
+  font-weight: bolder;
+  border: 1px solid #D40A3A;
+  border-radius: 10px !important;
 }
 
 /* Copy Right Footer */

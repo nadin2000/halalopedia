@@ -17,15 +17,15 @@ function Highestrated() {
             <div class="card me-2" style={{ width: "18rem" }}>
                 <img style={{ height: "10rem" }} src={Lazeez} class="card-img-top" alt="Lazeez" />
                 <div class="card-body">
-                    <h5 class="card-title">Lazeez</h5>
-                    <p class="card-text">Shawarma Lovers Unite!</p>
+                    <h5 class="card-title">Shawarma Town</h5>
+                    <p class="card-text">Shawarma Lovers spot!</p>
                 </div>
             </div>
             <div class="card me-2" style={{ width: "18rem" }}>
                 <img style={{ height: "10rem" }} src={Nafisa} class="card-img-top" alt="Nafisa" />
                 <div class="card-body">
-                    <h5 class="card-title">Nafisa</h5>
-                    <p class="card-text">Authentic Damascene tastes with the magic of homemade Arabic flavours.</p>
+                    <h5 class="card-title">Biryani Boyz</h5>
+                    <p class="card-text">Best Biryani in town!</p>
                 </div>
             </div>
 

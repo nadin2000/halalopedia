@@ -4,12 +4,11 @@ import NavButtons from "../Common/Navbuttons"
 import Categoriesslider from '../Common/CategoriesSlide';
 import Highestrated from '../Common/Highestrated';
 import Recentlyadded from '../Common/Recentlyadded';
-import Recommended from '../Common/Recommended';
 
 function Home() {
     return (
         <div>
-            <NavButtons />
+            <NavButtons page="home" />
             <Categoriesslider />
             <div class=" my-5 py-5" style={{ backgroundColor: "#F5F5F5" }}>
                 <div class="container" >
